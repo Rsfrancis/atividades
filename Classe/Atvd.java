@@ -1,7 +1,7 @@
 package QG02.Classes;
 import java.util.Scanner;
 
-public class Att {
+public class Atvd {
     public static Scanner input = new Scanner(System.in);
 
     public static void dadosProdutos(Produtos dp) {
