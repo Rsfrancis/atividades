@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VetorExercicio16 {
+public class Exercicio16 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double[] A = new double[5];

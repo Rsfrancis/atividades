@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class VetorExercicio15 {
+public class Exercicio15 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] A = new int[20];
