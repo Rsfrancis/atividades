@@ -1,0 +1,5 @@
+Arroz;10;5.0;Alimentos;2
+Sabão;5;2.5;Limpeza;1
+Camiseta;20;30.0;Vestuário;5
+Parafuso;100;0.5;Ferramentas;50
+Notebook;3;3000.0;Eletrônicos;1
