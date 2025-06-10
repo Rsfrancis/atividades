@@ -12,9 +12,12 @@ public class EstoqueApp {
 
         while (true) {
             System.out.println("\nMenu:");
-            System.out.println("1. Listar produtos");
-            System.out.println("2. Subtotal por categoria");
-            System.out.println("0. Sair");
+            System.out.println("1. Cadastrar produto");
+            System.out.println("2. Listar");
+            System.out.println("3. Filtrar para categoria");
+            System.out.println("4. Ordenar");
+            System.out.println("5. renovar elemento");
+            System.out.println("6. Subtotal por categoria");
             System.out.print("Escolha: ");
             int op = Integer.parseInt(sc.nextLine());
 
